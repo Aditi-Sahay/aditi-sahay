@@ -1,16 +1,23 @@
-## Hi there 👋
+##Hello! I'm Aditi (she/her). 
 
-<!--
-**Aditi-Sahay/Aditi-Sahay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A prospective computer Science student.
 
-Here are some ideas to get you started:
+Interested in:
+- AI
+- Product
+- Strategy
+- Data
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+
+Gap Year
+Exploring my options for undergraduate 
+Video Editing Intern at NYC Cybersecurity Startup
+
+My past projects include:
+Nearme: App
+AI Research
+
+You can find more about me on my portfolio: https://aditisahay.vercel.app/
+And you can reach me through mail: aditi.r.sahay@gmail.com
