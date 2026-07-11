@@ -1,4 +1,4 @@
-*Hello! I'm Aditi (she/her).*
+## *Hello! I'm Aditi (she/her).*
 
 A prospective computer Science student.
 
